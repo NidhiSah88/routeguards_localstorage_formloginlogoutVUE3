@@ -4,7 +4,8 @@
 # user data is stored in local storage
 # navigation guard concept is implement in router/index.js file
 to run file run: npm i to install node packages
-
+// npm i validator 
+// npm install vue-router@4
 
 import {createRouter, createWebHistory } from 'vue-router'
 
