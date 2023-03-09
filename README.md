@@ -1,8 +1,8 @@
 # routeguards_localstorage_formloginlogoutVUE3
-this project is done in vuejs3
-here user registration , login logout feature is implemented
-user data is stored in local storage
-navigation guard concept is implement in router/index.js file
+# this project is done in vuejs3
+# here user registration , login logout feature is implemented
+# user data is stored in local storage
+# navigation guard concept is implement in router/index.js file
 to run file run: npm i to install node packages
 
 
